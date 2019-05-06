@@ -1,0 +1,10 @@
+SCHRAGE-1: in50.txt - Cmax: 19882
+SCHRAGE-2: in50.txt - Cmax: 19882
+
+SCHRAGE-1: in100.txt - Cmax: 87230
+SCHRAGE-2: in100.txt - Cmax: 87230
+
+SCHRAGE-1: in200.txt - Cmax: 319086
+SCHRAGE-2: in200.txt - Cmax: 319086
+
+Obie implementacje algorytmu Schrage daj¹ identyczne wyniki.
